@@ -1,0 +1,1 @@
+The aim of this project is to become more comfortable with CSS and HTML, as well as Google Chrome Developer Tools. I am attempting to recreate the Google homepage.
